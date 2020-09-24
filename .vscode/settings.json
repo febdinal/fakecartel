@@ -1,0 +1,8 @@
+{
+    "omnisharp.enableEditorConfigSupport": true,
+    "prettier.requireConfig": true,
+    "liveServer.settings.CustomBrowser": "chrome",
+    "liveServer.settings.https": {
+        "enable": true
+    }
+}
